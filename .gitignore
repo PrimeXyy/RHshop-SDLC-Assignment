@@ -1,0 +1,15 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+dist/
+build/
+*.log
+
+# Docker Volumes
+postgres_data/
+
+# Environment Variables
+.env.local
